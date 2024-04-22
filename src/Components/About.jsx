@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an Information Security and Forensics student studying at KCA University. I enjoy building solutions to create a secure environment.";
+  "MediCod AI is an innovative software solution revolutionizing medical coding and billing processes through advanced artificial intelligence. Our mission is to streamline workflows, reduce errors, and ensure compliance, empowering healthcare organizations to enhance efficiency and financial performance.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Cyber Security",
-  "Cloud Engineering",
-  "DevSecOps",
-  "Digital Forensics",
-  "Security Automation",
-  "DevOps",
+  "Automation",
+  "Optimization",
+  "Integration",
+  "Compliance",
+  "Efficiency",
+  "Innovation",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my  Security and Cloud experience , I continually look for new and better ways to make tech secure and accessible and by all.";
+  "MediCod AI represents the intersection of healthcare and technology, where innovation meets necessity to drive efficiency and accuracy in medical coding and billing.";
 
 const About = () => {
   return (
