@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Victor Ndiritu",
-  title: "Cyber Security & Cloud Engineer",
-  email: "victorndiritu9@gmail.com",
+  name: "Medicod AI",
+  title: "A Medical coding assistant",
+  email: "victor.ndiritu@studentambassadors.com",
   gitHub: "VickyTaar",
-  instagram: "VickyTaar",
-  linkedIn: "victor-ndiritu-09109a220",
+  instagram: "MedicodAI",
+  linkedIn: "medicod-ai",
   medium: "",
-  twitter: "Vicky_taar",
+  twitter: "medicod-ai",
   youTube: "",
 };
 
