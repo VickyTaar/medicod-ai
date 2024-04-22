@@ -31,27 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Future of Healthcare: How AI is Transforming Medical Coding",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Explore the impact of artificial intelligence on healthcare operations, specifically focusing on the role of AI in automating and optimizing medical coding processes. Discuss the benefits of AI-driven solutions like MediCod in improving accuracy, efficiency, and compliance in medical coding, ultimately driving better patient care and financial outcomes.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Unveiling the Vision: The Story of Elysian's Inception",
+    title: "Navigating the Complexities of Medical Billing: Challenges and Solutions",
     description:
-      "Discover the story behind Elysian's inspiration—fueled by the commitment to data protection",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Dive into the complexities of medical billing and the challenges faced by healthcare organizations in ensuring accuracy, efficiency, and compliance. Discuss innovative solutions such as MediCod AI, which streamline billing processes, reduce errors, and ensure adherence to coding guidelines and regulations, ultimately improving revenue cycle management and financial performance.",
   },
   {
-    title: "My Resume Site",
+    title: "Unlocking the Potential of Healthcare Automation: The Role of AI in Revenue Cycle Management",
     description:
-      "Created by myself and deployed to Azure app services. Includes my experience and design abilities.",
+      " Explore the transformative power of automation in healthcare revenue cycle management, with a focus on AI-driven solutions like MediCod. Discuss how automation streamlines workflows, reduces manual errors, and enhances compliance, enabling healthcare organizations to optimize revenue capture, minimize revenue leakage, and improve overall financial health.",
     url: "https://victorndiritu.tech/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Innovation in Action: Case Studies of MediCod AI Implementation",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Highlight real-world examples of healthcare organizations leveraging MediCod AI to revolutionize their medical coding and billing processes. Share success stories, case studies, and testimonials from clients who have experienced the benefits of automation, efficiency, and accuracy with MediCod, demonstrating its impact on improving operational efficiency and financial performance.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
